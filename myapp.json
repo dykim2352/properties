@@ -1,0 +1,8 @@
+{
+  "app.name": "My Application",
+  "app.description": "This is a sample application",
+  "app.settings": {
+    "timeout": 5000,
+    "retryAttempts": 3
+  }
+}
