@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: config-server
+
+rest:
+  target:
+    url: http://localhost:24710
